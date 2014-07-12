@@ -4,7 +4,7 @@
   <title><![CDATA[Xin's Blog]]></title>
   <link href="http://simexin.github.io/atom.xml" rel="self"/>
   <link href="http://simexin.github.io/"/>
-  <updated>2014-07-13T01:15:58+08:00</updated>
+  <updated>2014-07-13T01:18:20+08:00</updated>
   <id>http://simexin.github.io/</id>
   <author>
     <name><![CDATA[Xin Meng]]></name>
@@ -14,10 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Test First Post]]></title>
-    <link href="http://simexin.github.io/blog/2014/07/12/test-first-post/"/>
-    <updated>2014-07-12T23:52:57+08:00</updated>
-    <id>http://simexin.github.io/blog/2014/07/12/test-first-post</id>
+    <title type="html"><![CDATA[Test-octopress]]></title>
+    <link href="http://simexin.github.io/blog/2014/07/13/test-octopress/"/>
+    <updated>2014-07-13T01:18:05+08:00</updated>
+    <id>http://simexin.github.io/blog/2014/07/13/test-octopress</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
